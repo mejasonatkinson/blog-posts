@@ -2,8 +2,19 @@
 
 ## Posts
 
+### Completed Posts
+
+- Pleaceholder
+
+### Incomplete Posts
+
+- Pleaceholder
 
 ## Post Ideas
 
-- [ ] What its like being neudivergent, and having a blog...
-- [ ] Learning, Processes...
+- [ ] [ChatGPT](ideas/chat-gpt-post-ideas.md)
+
+## Post Research
+
+- Pleaceholder
+
